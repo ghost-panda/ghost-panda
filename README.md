@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ghost-panda
 - 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently doing the Odin Project
-- 💞️ I’m looking to collaborate on anything.
+- 🌱 I’m currently doing the Odin Project.
 - 📫 How to reach me - Discord
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have a degree in Ethical Hacking and Cyber Security.
